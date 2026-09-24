@@ -66,7 +66,7 @@ powershell.exe -ExecutionPolicy Bypass -File .\Annual_Leave.ps1 -CBAPath "cba" -
 
 ## Help
 
-To see the help message copy and paste:
+To see the help message copy and paste into the Powershell window:
 ```
 Get-Help .\Annual_Leave.ps1
 ```
