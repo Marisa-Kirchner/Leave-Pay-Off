@@ -1,14 +1,10 @@
 # Annual Leave Script Usage
 
-Simple overview of use/purpose.
-
-> Generates personalized annual leave pay off letters for employees.
+Generates personalized annual leave pay off letters for employees.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-> Generates personalized annual leave pay off letters from a given Excel sheet. Will choose the "CBA" or "Non-CBA" Word template based on whether the employee has a personal leave line on the Excel sheet. Fills out the Word doc with the employee name, leave amounts left per type, and annual leave hours that will be lost. Saves the filled out Word doc with a specified name and in a given output folder.
+Generates personalized annual leave pay off letters from a given Excel sheet. Will choose the "CBA" or "Non-CBA" Word template based on whether the employee has a personal leave line on the Excel sheet. Fills out the Word doc with the employee name, leave amounts left per type, and annual leave hours that will be lost. Saves the filled out Word doc with a specified name and in a given output folder.
 
 ## Getting Started
 
@@ -29,6 +25,11 @@ An in-depth paragraph about your project and overview of use.
 * Go to Start & search "Make Me Admin"
 * You will select make me admin & log in using your credentials
 * Go to Start, search "Windows Powershell", & then click "Run as Admininstrator"
+
+> ## Windows Powershell Tips
+> * You cannot use your mouse to move your cursor in the Powershell window. You must use your left and right arrow keys to move the cursor in the window.
+> * To paste in the Powershell window, you only have to right click.
+> * To reuse the last command you entered, press the up arrow key. You can then edit it without retyping everything.
 
 ## Executing the Script
 
