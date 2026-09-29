@@ -26,11 +26,6 @@ Generates personalized annual leave pay off letters from a given Excel sheet. Wi
 * You will select make me admin & log in using your credentials
 * Go to Start, search "Windows Powershell", & then click "Run as Admininstrator"
 
-> ## Windows Powershell Tips
-> * You cannot use your mouse to move your cursor in the Powershell window. You must use your left and right arrow keys to move the cursor in the window.
-> * To paste in the Powershell window, you only have to right click.
-> * To reuse the last command you entered, press the up arrow key. You can then edit it without retyping everything.
-
 ## Executing the Script
 
  Copy the command below & right click on the powershell window to paste there.
@@ -59,11 +54,6 @@ powershell.exe -ExecutionPolicy Bypass -File .\Annual_Leave.ps1 -CBAPath "cba" -
 ```
 
 
-> ## Windows Powershell Tips
-> * You cannot use your mouse to move your cursor in the Powershell window. You must use your left and right arrow keys to move the cursor in the window.
-> * To paste in the Powershell window, you only have to right click.
-> * To reuse the last command you entered, press the up arrow key. You can then edit it without retyping everything.
-
 ## Help
 
 To see the help message copy and paste into the Powershell window:
@@ -71,6 +61,10 @@ To see the help message copy and paste into the Powershell window:
 Get-Help .\Annual_Leave.ps1
 ```
 
+### Windows Powershell Tips
+* You cannot use your mouse to move your cursor in the Powershell window. You must use your left and right arrow keys to move the cursor in the window.
+* To paste in the Powershell window, you only have to right click.
+* To reuse the last command you entered, press the up arrow key. You can then edit it without retyping everything.
 
 ## Authors
 Marisa Kirchner
